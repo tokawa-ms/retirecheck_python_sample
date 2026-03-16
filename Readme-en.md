@@ -143,7 +143,7 @@ python retirement_workbook.py --tenant-id <tenant-id>
 
 ## Requirements
 
-- Python
+- Python 3
 - A valid authentication context for Azure
 - The dependencies listed in [requirements.txt](requirements.txt)
 
