@@ -1,5 +1,7 @@
 # Azure Retirement Workbook Fetcher
 
+[English README](README-en.md)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/Python-3-blue.svg)
 ![CLI](https://img.shields.io/badge/Interface-CLI-4b8bbe.svg)
